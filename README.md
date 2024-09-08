@@ -7,6 +7,9 @@
 来自俗语：“一个篱笆三个桩，一个好汉三个帮”。
 
 ## 使用
+```golang
+resp, err := http.Get("https://cdn.jsdelivr.net/gh/youngzhu/haohanbang/wodc/2024.json")
+```
 
 ## 提供的数据（包括但不限于）
 - 中国特色的班/休日
