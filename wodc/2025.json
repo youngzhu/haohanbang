@@ -1,0 +1,12 @@
+{
+  "code": 0,
+  "holidays": [
+    {
+      "holiday": true,
+      "name": "元旦",
+      "wage": 3,
+      "date": "2025-01-01",
+      "rest": 1
+    }
+  ]
+}
